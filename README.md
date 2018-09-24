@@ -1,2 +1,2 @@
-This repository is an exercise regarding git and github for me to get to know this system
+This repository has been created for soccer games and predictions 
 
